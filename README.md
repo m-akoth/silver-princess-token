@@ -61,8 +61,8 @@ Follow these steps to create a new token on the Solana blockchain using the Sola
     spl-token create-account spr4KHnz86QBuhm8iqRv2rKHmh7PfiD2g3V8ReGeppQ
 
 11. **Mint Tokens**
-    spl-token mint spr4KHnz86QBuhm8iqRv2rKHmh7PfiD2g3V8ReGeppQ 2000 **_insert the created account_**
+    spl-token mint spr4KHnz86QBuhm8iqRv2rKHmh7PfiD2g3V8ReGeppQ **2000** **_insert the created account_**
 
 12. **Transfer Tokens To Another Owner**
-    spl-token transfer --fund-recipient spr4KHnz86QBuhm8iqRv2rKHmh7PfiD2g3V8ReGeppQ 10  **_write the recipient's wallet address_**
+    spl-token transfer --fund-recipient spr4KHnz86QBuhm8iqRv2rKHmh7PfiD2g3V8ReGeppQ **10**  **_write the recipient's wallet address_**
     
